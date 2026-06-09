@@ -235,9 +235,11 @@
           "widgetId": "widget_145",
           "bbox": {
             "right": "0.8%",
-            "top": "17.3%",
-            "width": "4.3%",
-            "height": "10.9%"
+            "top": "82.4%",
+            "width": "3.4%",
+            "height": "12.9%",
+            "left": "1301px",
+            "bottom": "50px"
           },
           "setting": {
             "autoProps": {
@@ -245,8 +247,8 @@
               "height": "AUTO",
               "left": true,
               "right": false,
-              "top": false,
-              "bottom": true
+              "top": true,
+              "bottom": false
             },
             "vCenter": false,
             "hCenter": false
@@ -5613,7 +5615,8 @@
         "enableLegend": true,
         "searchLayers": false,
         "information": true,
-        "expandAllLayers": true
+        "expandAllLayers": true,
+        "useTickBoxes": true
       },
       "id": "widget_158",
       "useMapWidgetIds": [
@@ -9142,7 +9145,7 @@
   },
   "customTheme": {},
   "customThemeOptions": {},
-  "publishTimestamp": 1780820808986,
+  "publishTimestamp": 1781004440478,
   "attributes": {
     "portalUrl": "https://authgr.maps.arcgis.com",
     "isWebTier": false,
@@ -9153,7 +9156,7 @@
     "type": "Web Experience",
     "thumbnail": null
   },
-  "timestamp": 1780820774358,
+  "timestamp": 1781001825310,
   "sharedThemeVariables": null,
   "mainLocale": "en",
   "dataSources": {
