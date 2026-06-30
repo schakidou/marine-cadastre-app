@@ -15,10 +15,7 @@
   },
   "properties": {
     "canCreateMapWidget": false,
-    "hasVersionManager": false,
-    "hasConfig": false
+    "hasVersionManager": false
   },
-  "dependency": [
-    "jimu-arcgis"
-  ]
+  "dependency": ["jimu-arcgis"]
 }
