@@ -1,0 +1,24 @@
+{
+  "name": "conflict-identifier",
+  "label": "Conflict Identifier",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.16.0",
+  "description": "Identifies spatial conflicts between maritime use categories using a pairwise compatibility matrix and client-side geometric intersection.",
+  "copyright": "",
+  "author": "Marine Cadastre",
+  "jimuForBuilderLib": "^1.0.0",
+  "jimuForRuntimeLib": "^1.0.0",
+  "defaultSize": {
+    "width": 400,
+    "height": 800
+  },
+  "properties": {
+    "canCreateMapWidget": false,
+    "hasVersionManager": false,
+    "hasConfig": false
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}
